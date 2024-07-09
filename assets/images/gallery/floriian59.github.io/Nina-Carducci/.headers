@@ -1,0 +1,11 @@
+[
+  {
+    "applyTo": "index.html",
+    "headers": [
+      {
+        "name": "cache-control",
+        "value": "max-age=3600"
+      }
+    ]
+  }
+]
